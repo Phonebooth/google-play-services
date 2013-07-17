@@ -1,0 +1,10 @@
+*~
+*.swp
+.assemblarc
+
+bin/
+gen/
+
+AndroidManifest.out.xml
+local.properties
+lint.xml
