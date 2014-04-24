@@ -3,6 +3,7 @@
 .assemblarc
 
 bin/
+build/
 gen/
 
 AndroidManifest.out.xml
